@@ -10,3 +10,4 @@ Establish a data connection to the cleaned file with Tableau and perform an anal
 
 CTRL + click below to view the python code:
 ### [nbviewer notebook](https://nbviewer.org/github/jdgimlin/global-covid/blob/main/global_covid_data.ipynb)
+![nbviewer notebook](three_nbviewer450w.jpg)
